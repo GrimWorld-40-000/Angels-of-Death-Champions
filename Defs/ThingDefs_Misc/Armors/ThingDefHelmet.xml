@@ -153,7 +153,7 @@
 		</apparel>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
-				<maskCount>12</maskCount>
+				<maskCount>13</maskCount>
 				<palettePresets>GW_SM_HelmetChapterPalettes</palettePresets>
 				<defaultPalette>
 					<colorA>(250, 176, 67)</colorA>
@@ -235,6 +235,17 @@
 		<apparel>
 			<wornGraphicPath>Things/Apparel/Ultramarines/Helmets/Victrix_helmet_simple</wornGraphicPath>
 		</apparel>
+		<comps>
+			<li Class="GW4KArmor.CompProperties_TriColorMask">
+				<maskCount>3</maskCount>
+				<palettePresets>GW_SM_HelmetChapterPalettes</palettePresets>
+				<defaultPalette>
+					<colorA>(250, 176, 67)</colorA>
+					<colorB>(250, 176, 67)</colorB>
+					<colorC>(180, 65, 74)</colorC>
+				</defaultPalette>
+			</li>
+		</comps>
 	</ThingDef>
 	
 </Defs>
