@@ -133,7 +133,7 @@
 		</graphicData>
 		<uiIconPath>Things/Apparel/DarkAngel/Helmets/Tacticus_helmet_hood_south</uiIconPath>
 		<apparel>
-			<wornGraphicPath>Things/Apparel/DarkAngel/Helmets/Tacticus_helmet_hood_south</wornGraphicPath>
+			<wornGraphicPath>Things/Apparel/DarkAngel/Helmets/Tacticus_helmet_hood</wornGraphicPath>
 		</apparel>
 	</ThingDef>
 	
