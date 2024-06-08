@@ -110,25 +110,24 @@
 		<recipeMaker>
 			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
 		</recipeMaker>
-		<description>Warhammer 40,000 Scout shoulder pads are durable and practical, offering protection without hindering mobility. They often feature subtle chapter insignia, blending functionality with allegiance.</description>
 		<statBases>
-			<WorkToMake>4000</WorkToMake>
+			<WorkToMake>10000</WorkToMake>
 			<MaxHitPoints>500</MaxHitPoints>
-			<Mass>2.5</Mass>
+			<Mass>3</Mass>
 			<Flammability>0.2</Flammability>
-			<ArmorRating_Sharp>0.50</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.35</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.4</ArmorRating_Heat>
-			<Insulation_Cold>5</Insulation_Cold>
-			<Insulation_Heat>5</Insulation_Heat>
+			<ArmorRating_Sharp>0.75</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.5</ArmorRating_Heat>
+			<Insulation_Cold>10</Insulation_Cold>
+			<Insulation_Heat>10</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<costList>
-			<ComponentSpacer>2</ComponentSpacer>
-			<Plasteel>100</Plasteel>
-			<Steel>100</Steel>
-			<Uranium>60</Uranium>
-			<HP_Ceramite>15</HP_Ceramite>
+			<ComponentSpacer>5</ComponentSpacer>
+			<Plasteel>250</Plasteel>
+			<Steel>180</Steel>
+			<Uranium>90</Uranium>
+			<HP_Ceramite>30</HP_Ceramite>
 		</costList>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
@@ -158,25 +157,24 @@
 		<recipeMaker>
 			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
 		</recipeMaker>
-		<description>Warhammer 40,000 Scout shoulder pads are durable and practical, offering protection without hindering mobility. They often feature subtle chapter insignia, blending functionality with allegiance.</description>
 		<statBases>
-			<WorkToMake>4000</WorkToMake>
+			<WorkToMake>10000</WorkToMake>
 			<MaxHitPoints>500</MaxHitPoints>
-			<Mass>2.5</Mass>
+			<Mass>3</Mass>
 			<Flammability>0.2</Flammability>
-			<ArmorRating_Sharp>0.50</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.35</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.4</ArmorRating_Heat>
-			<Insulation_Cold>5</Insulation_Cold>
-			<Insulation_Heat>5</Insulation_Heat>
+			<ArmorRating_Sharp>0.75</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.5</ArmorRating_Heat>
+			<Insulation_Cold>10</Insulation_Cold>
+			<Insulation_Heat>10</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<costList>
-			<ComponentSpacer>2</ComponentSpacer>
-			<Plasteel>100</Plasteel>
-			<Steel>100</Steel>
-			<Uranium>60</Uranium>
-			<HP_Ceramite>15</HP_Ceramite>
+			<ComponentSpacer>5</ComponentSpacer>
+			<Plasteel>250</Plasteel>
+			<Steel>180</Steel>
+			<Uranium>90</Uranium>
+			<HP_Ceramite>30</HP_Ceramite>
 		</costList>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
@@ -206,25 +204,24 @@
 		<recipeMaker>
 			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
 		</recipeMaker>
-		<description>Warhammer 40,000 Scout shoulder pads are durable and practical, offering protection without hindering mobility. They often feature subtle chapter insignia, blending functionality with allegiance.</description>
 		<statBases>
-			<WorkToMake>4000</WorkToMake>
+			<WorkToMake>10000</WorkToMake>
 			<MaxHitPoints>500</MaxHitPoints>
-			<Mass>2.5</Mass>
+			<Mass>3</Mass>
 			<Flammability>0.2</Flammability>
-			<ArmorRating_Sharp>0.50</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.35</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.4</ArmorRating_Heat>
-			<Insulation_Cold>5</Insulation_Cold>
-			<Insulation_Heat>5</Insulation_Heat>
+			<ArmorRating_Sharp>0.75</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.5</ArmorRating_Heat>
+			<Insulation_Cold>10</Insulation_Cold>
+			<Insulation_Heat>10</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<costList>
-			<ComponentSpacer>2</ComponentSpacer>
-			<Plasteel>100</Plasteel>
-			<Steel>100</Steel>
-			<Uranium>60</Uranium>
-			<HP_Ceramite>15</HP_Ceramite>
+			<ComponentSpacer>5</ComponentSpacer>
+			<Plasteel>250</Plasteel>
+			<Steel>180</Steel>
+			<Uranium>90</Uranium>
+			<HP_Ceramite>30</HP_Ceramite>
 		</costList>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
@@ -254,25 +251,24 @@
 		<recipeMaker>
 			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
 		</recipeMaker>
-		<description>Warhammer 40,000 Scout shoulder pads are durable and practical, offering protection without hindering mobility. They often feature subtle chapter insignia, blending functionality with allegiance.</description>
 		<statBases>
-			<WorkToMake>4000</WorkToMake>
+			<WorkToMake>10000</WorkToMake>
 			<MaxHitPoints>500</MaxHitPoints>
-			<Mass>2.5</Mass>
+			<Mass>3</Mass>
 			<Flammability>0.2</Flammability>
-			<ArmorRating_Sharp>0.50</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.35</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.4</ArmorRating_Heat>
-			<Insulation_Cold>5</Insulation_Cold>
-			<Insulation_Heat>5</Insulation_Heat>
+			<ArmorRating_Sharp>0.75</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.5</ArmorRating_Heat>
+			<Insulation_Cold>10</Insulation_Cold>
+			<Insulation_Heat>10</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<costList>
-			<ComponentSpacer>2</ComponentSpacer>
-			<Plasteel>100</Plasteel>
-			<Steel>100</Steel>
-			<Uranium>60</Uranium>
-			<HP_Ceramite>15</HP_Ceramite>
+			<ComponentSpacer>5</ComponentSpacer>
+			<Plasteel>250</Plasteel>
+			<Steel>180</Steel>
+			<Uranium>90</Uranium>
+			<HP_Ceramite>30</HP_Ceramite>
 		</costList>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
@@ -302,25 +298,24 @@
 		<recipeMaker>
 			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
 		</recipeMaker>
-		<description>Warhammer 40,000 Scout shoulder pads are durable and practical, offering protection without hindering mobility. They often feature subtle chapter insignia, blending functionality with allegiance.</description>
 		<statBases>
-			<WorkToMake>4000</WorkToMake>
+			<WorkToMake>10000</WorkToMake>
 			<MaxHitPoints>500</MaxHitPoints>
-			<Mass>2.5</Mass>
+			<Mass>3</Mass>
 			<Flammability>0.2</Flammability>
-			<ArmorRating_Sharp>0.50</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.35</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.4</ArmorRating_Heat>
-			<Insulation_Cold>5</Insulation_Cold>
-			<Insulation_Heat>5</Insulation_Heat>
+			<ArmorRating_Sharp>0.75</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
+			<ArmorRating_Heat>0.5</ArmorRating_Heat>
+			<Insulation_Cold>10</Insulation_Cold>
+			<Insulation_Heat>10</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<costList>
-			<ComponentSpacer>2</ComponentSpacer>
-			<Plasteel>100</Plasteel>
-			<Steel>100</Steel>
-			<Uranium>60</Uranium>
-			<HP_Ceramite>15</HP_Ceramite>
+			<ComponentSpacer>5</ComponentSpacer>
+			<Plasteel>250</Plasteel>
+			<Steel>180</Steel>
+			<Uranium>90</Uranium>
+			<HP_Ceramite>30</HP_Ceramite>
 		</costList>
 		<comps>
 			<li Class="GW4KArmor.CompProperties_TriColorMask">
