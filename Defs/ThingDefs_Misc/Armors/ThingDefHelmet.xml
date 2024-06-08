@@ -74,25 +74,26 @@
 			</li>
 		</comps>
 		<equippedStatOffsets>
-			<AimingDelayFactor>-0.1</AimingDelayFactor>
+			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
+			<AimingDelayFactor>-0.2</AimingDelayFactor>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentSpacer>1</ComponentSpacer>
-			<Plasteel>50</Plasteel>
-			<Steel>30</Steel>
-			<Uranium>10</Uranium>
-			<HP_Ceramite>5</HP_Ceramite>
+			<Plasteel>100</Plasteel>
+			<Steel>50</Steel>
+			<Uranium>15</Uranium>
+			<HP_Ceramite>10</HP_Ceramite>
 		</costList>
 		<statBases>
-			<WorkToMake>15000</WorkToMake>
-			<MaxHitPoints>400</MaxHitPoints>
-			<Mass>1.5</Mass>
+			<WorkToMake>25000</WorkToMake>
+			<MaxHitPoints>700</MaxHitPoints>
+			<Mass>3</Mass>
 			<Flammability>0.2</Flammability>
-			<ArmorRating_Sharp>1</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.7</ArmorRating_Heat>
-			<Insulation_Cold>10</Insulation_Cold>
-			<Insulation_Heat>10</Insulation_Heat>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.10</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.0</ArmorRating_Heat>
+			<Insulation_Cold>20</Insulation_Cold>
+			<Insulation_Heat>20</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<recipeMaker>
@@ -150,25 +151,26 @@
 			<wornGraphicPath>Things/Apparel/Ultramarines/Helmets/Aquilla_helmet_fcrest</wornGraphicPath>
 		</apparel>		
 		<equippedStatOffsets>
-			<AimingDelayFactor>-0.1</AimingDelayFactor>
+			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
+			<AimingDelayFactor>-0.2</AimingDelayFactor>
 		</equippedStatOffsets>
 		<costList>
 			<ComponentSpacer>1</ComponentSpacer>
-			<Plasteel>50</Plasteel>
-			<Steel>30</Steel>
-			<Uranium>10</Uranium>
-			<HP_Ceramite>5</HP_Ceramite>
+			<Plasteel>100</Plasteel>
+			<Steel>50</Steel>
+			<Uranium>15</Uranium>
+			<HP_Ceramite>10</HP_Ceramite>
 		</costList>
 		<statBases>
-			<WorkToMake>15000</WorkToMake>
-			<MaxHitPoints>400</MaxHitPoints>
-			<Mass>1.5</Mass>
+			<WorkToMake>25000</WorkToMake>
+			<MaxHitPoints>700</MaxHitPoints>
+			<Mass>3</Mass>
 			<Flammability>0.2</Flammability>
-			<ArmorRating_Sharp>1</ArmorRating_Sharp>
-			<ArmorRating_Blunt>0.65</ArmorRating_Blunt>
-			<ArmorRating_Heat>0.7</ArmorRating_Heat>
-			<Insulation_Cold>10</Insulation_Cold>
-			<Insulation_Heat>10</Insulation_Heat>
+			<ArmorRating_Sharp>1.50</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.10</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.0</ArmorRating_Heat>
+			<Insulation_Cold>20</Insulation_Cold>
+			<Insulation_Heat>20</Insulation_Heat>
 			<EquipDelay>2</EquipDelay>
 		</statBases>
 		<recipeMaker>
@@ -266,6 +268,25 @@
 				</defaultPalette>
 			</li>
 		</comps>
+		<costList>
+			<ComponentSpacer>1</ComponentSpacer>
+			<Plasteel>100</Plasteel>
+			<Steel>50</Steel>
+			<Uranium>15</Uranium>
+			<HP_Ceramite>10</HP_Ceramite>
+		</costList>
+		<statBases>
+			<WorkToMake>25000</WorkToMake>
+			<MaxHitPoints>700</MaxHitPoints>
+			<Mass>3</Mass>
+			<Flammability>0.2</Flammability>
+			<ArmorRating_Sharp>1.65</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.25</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.0</ArmorRating_Heat>
+			<Insulation_Cold>30</Insulation_Cold>
+			<Insulation_Heat>30</Insulation_Heat>
+			<EquipDelay>2</EquipDelay>
+		</statBases>
 	</ThingDef>
 	
 	<ThingDef ParentName="GW_CM_UMHelmet_Base">
@@ -289,6 +310,29 @@
 				</defaultPalette>
 			</li>
 		</comps>
+		<equippedStatOffsets>
+			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
+			<AimingDelayFactor>-0.2</AimingDelayFactor>
+		</equippedStatOffsets>
+		<costList>
+			<ComponentSpacer>1</ComponentSpacer>
+			<Plasteel>100</Plasteel>
+			<Steel>50</Steel>
+			<Uranium>15</Uranium>
+			<HP_Ceramite>10</HP_Ceramite>
+		</costList>
+		<statBases>
+			<WorkToMake>25000</WorkToMake>
+			<MaxHitPoints>700</MaxHitPoints>
+			<Mass>3</Mass>
+			<Flammability>0.2</Flammability>
+			<ArmorRating_Sharp>1.65</ArmorRating_Sharp>
+			<ArmorRating_Blunt>1.25</ArmorRating_Blunt>
+			<ArmorRating_Heat>1.0</ArmorRating_Heat>
+			<Insulation_Cold>30</Insulation_Cold>
+			<Insulation_Heat>30</Insulation_Heat>
+			<EquipDelay>2</EquipDelay>
+		</statBases>
 	</ThingDef>
 	
 </Defs>
