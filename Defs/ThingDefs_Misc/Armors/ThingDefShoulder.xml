@@ -22,8 +22,8 @@
 				<Crafting>15</Crafting>
 			</skillRequirements>
 			<recipeUsers Inherit="false">
-				<!-- <li>GW_SM_ArmorBench</li> -->
-				<li>FabricationBench</li>
+				<li>GW_SM_ArmorBench</li>
+				<!-- <li>FabricationBench</li> -->
 			</recipeUsers>
 		</recipeMaker>
 		<graphicData>
@@ -108,7 +108,7 @@
 			</tags>
 		</apparel>		
 		<recipeMaker>
-			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
+			<researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite>
 		</recipeMaker>
 		<statBases>
 			<WorkToMake>10000</WorkToMake>
@@ -155,7 +155,7 @@
 			</tags>
 		</apparel>		
 		<recipeMaker>
-			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
+			<researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite>
 		</recipeMaker>
 		<statBases>
 			<WorkToMake>10000</WorkToMake>
@@ -202,7 +202,7 @@
 			</tags>
 		</apparel>		
 		<recipeMaker>
-			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
+			<researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite>
 		</recipeMaker>
 		<statBases>
 			<WorkToMake>10000</WorkToMake>
@@ -249,7 +249,7 @@
 			</tags>
 		</apparel>		
 		<recipeMaker>
-			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
+			<researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite>
 		</recipeMaker>
 		<statBases>
 			<WorkToMake>10000</WorkToMake>
@@ -296,7 +296,7 @@
 			</tags>
 		</apparel>		
 		<recipeMaker>
-			<!-- <researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite> -->
+			<researchPrerequisite>GW_SM_AstartesFabrication</researchPrerequisite>
 		</recipeMaker>
 		<statBases>
 			<WorkToMake>10000</WorkToMake>
